@@ -5,7 +5,7 @@ React JS Test on API Integration
 ## Appendix
 
 - Render the data of list of countries on to the page by getting from the api.
-- When you click on country name it will take you to the country page where the country details will be shown.
+- When you click on country name it will take you to the country page where the respective country details will be visible.
 
 ## API Reference
 
