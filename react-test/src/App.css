@@ -1,0 +1,32 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+body {
+  padding: 50px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.left {
+  cursor: pointer;
+}
+
+.right__container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.country__container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.country {
+  margin-right: 50px;
+}
